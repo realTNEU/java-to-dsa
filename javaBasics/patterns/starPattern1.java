@@ -4,7 +4,7 @@
 // ***
 // ****
 
-package javaBasics;
+package javaBasics.patterns;
 
 public class starPattern1 {
     public static void main(String[] args) {
